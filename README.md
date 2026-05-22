@@ -49,7 +49,7 @@ Extract ga_session_id from event parameters
 Order events within sessions using window functions
 Identify first event in each session
 Analyze most common session start events
-🧰 Methods & Techniques Used
+ Methods & Techniques Used
 SQL (BigQuery Standard SQL)
 Nested data handling (ARRAY / STRUCT)
 UNNEST operations
